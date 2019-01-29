@@ -1,0 +1,26 @@
+
+h1{
+    color: #f00;
+}
+
+img{
+    max-width: 100%;  
+}
+
+.carousel{
+    margin-bottom: 50px;
+}
+
+.topo{
+    background-color:#F8F8FF;
+    border-radius: 10px;
+}
+
+footer{
+   background-color: rgb(150, 22, 22);
+   margin-top: 50px;
+   margin-bottom: 10px;
+   padding-bottom: 30px;
+   color: #fff;
+   height: 50px;
+}
